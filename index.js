@@ -44,40 +44,55 @@
 
 
 
-// Homeworks
+// // Homeworks
 
-// firs task
-let fontSFunc = 16
-const plural = function () {
-    fontSFunc = fontSFunc + 2
-    document.body.style.fontSize = fontSFunc + "px"
-}
+// // firs task
+// let fontSFunc = 16
+// const plural = function () {
+//     fontSFunc = fontSFunc + 2
+//     document.body.style.fontSize = fontSFunc + "px"
+// }
 
-// second task 
+// // second task 
 
-let fontFunc = 16
-const singular = function () {
-    fontFunc = fontFunc - 2
-    document.body.style.fontSize = fontFunc + "px"
-}
+// let fontFunc = 16
+// const singular = function () {
+//     fontFunc = fontFunc - 2
+//     document.body.style.fontSize = fontFunc + "px"
+// }
 
-// third task
+// // third task
 
-function day() {
-    document.body.style.backgroundColor = "black"
-}
+// function day() {
+//     document.body.style.backgroundColor = "black"
+// }
 
-function night() {
-    document.body.style.backgroundColor = "white"
-}
+// function night() {
+//     document.body.style.backgroundColor = "white"
+// }
 
 // Forth task
 
-function RedNOranche(){
-    document.body.style.background = "red" 
-    document.body.style.color = "orange" 
+// function RedNOranche(){
+//     document.body.style.background = "red" 
+//     document.body.style.color = "orange" 
 
-}
+// }
 
 // fifth
 
+const me = function () {
+   
+    document.body.style.fontSize = "25px"
+}
+ // sixth
+
+ const you = function() {
+    document.body.style.fontSize = "12px"
+ } 
+
+ //seventh
+
+ const we = function() {
+    document.body.style.fontSize = "16px"
+ }
